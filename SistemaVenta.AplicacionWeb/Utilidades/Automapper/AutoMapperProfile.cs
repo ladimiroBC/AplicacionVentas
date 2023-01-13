@@ -49,9 +49,9 @@ namespace SistemaVenta.AplicacionWeb.Utilidades.Automapper
                 .ForMember(d => d.EsActivo,
                 opt => opt.MapFrom(o => o.EsActivo == true ? 1 : 0)
                 );
-            CreateMap<Categoria, VMCategoria>()
+            CreateMap<VMCategoria, Categoria>()
                 .ForMember(d => d.EsActivo,
-                opt => opt.MapFrom(o => o.EsActivo == true ? true :false)
+                opt => opt.MapFrom(o => o.EsActivo == 1 ? true :false)
                 );
             #endregion
 
