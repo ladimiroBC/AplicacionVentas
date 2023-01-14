@@ -60,6 +60,8 @@ namespace SistemaVenta.AplicacionWeb.Utilidades.Automapper
                 .ForMember(d => d.EsActivo,
                 opt => opt.MapFrom(o => o.EsActivo == true ? 1 : 0)
                 )
+                .ForMember(d=>d.NombreCategoria,
+                opt=>opt.MapFrom(o => o.IdCategoriaNavigation.Descripcion))
                 .ForMember(d => d.Precio,
                 opt => opt.MapFrom(o => Convert.ToString(o.Precio.Value, new CultureInfo("es-CO")))
                 );
@@ -68,6 +70,8 @@ namespace SistemaVenta.AplicacionWeb.Utilidades.Automapper
                 .ForMember(d => d.EsActivo,
                 opt => opt.MapFrom(o => o.EsActivo == 1 ? true : false)
                 )
+                .ForMember(d => d.IdCategoriaNavigation,
+                opt => opt.Ignore())
                 .ForMember(d => d.Precio,
                 opt => opt.MapFrom(o => Convert.ToDecimal(o.Precio, new CultureInfo("es-CO")))
                 );
