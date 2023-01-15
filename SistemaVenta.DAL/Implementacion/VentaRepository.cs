@@ -66,7 +66,7 @@ namespace SistemaVenta.DAL.Implementacion
             }
 
             return ventaGenerada;
-        }
+         }
 
         public async Task<List<DetalleVenta>> Reporte(DateTime FechaInicio, DateTime FechaFin)
         {

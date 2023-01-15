@@ -21,15 +21,15 @@ namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 
         public string? NombreCliente { get; set; }
 
-        public decimal? SubTotal { get; set; }
+        public string? SubTotal { get; set; }
 
-        public decimal? ImpuestoTotal { get; set; }
+        public string? ImpuestoTotal { get; set; }
 
-        public decimal? Total { get; set; }
+        public string? Total { get; set; }
 
-        public DateTime? FechaRegistro { get; set; }
+        public string? FechaRegistro { get; set; }
 
-        public virtual ICollection<VMDetalleVenta> DetalleVenta { get; } = new List<VMDetalleVenta>();
+        public virtual ICollection<VMDetalleVenta> DetalleVenta { get; set; }
 
     }
 }
