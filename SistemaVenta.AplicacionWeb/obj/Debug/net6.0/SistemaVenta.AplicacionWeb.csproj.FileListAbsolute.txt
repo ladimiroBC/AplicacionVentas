@@ -292,3 +292,7 @@ G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaV
 G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
 G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
 G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Utilidades\LibreriaPDF\libwkhtmltox.dll
+G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Utilidades\LibreriaPDF\libwkhtmltox.dylib
+G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Utilidades\LibreriaPDF\libwkhtmltox.so
+G:\tutoriales\programacion\Proyectos Practicas\AplicacionVentas\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\DinkToPdf.dll
