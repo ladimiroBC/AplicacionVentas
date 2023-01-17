@@ -53,8 +53,16 @@
       "PackagePath": "staticwebassets\\js\\vistas\\Categoria_Index.js"
     },
     {
+      "Id": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\DashBoard_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\DashBoard_Index.js"
+    },
+    {
       "Id": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
       "PackagePath": "staticwebassets\\js\\vistas\\Historial_Venta.js"
+    },
+    {
+      "Id": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Home_Perfil.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Home_Perfil.js"
     },
     {
       "Id": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",

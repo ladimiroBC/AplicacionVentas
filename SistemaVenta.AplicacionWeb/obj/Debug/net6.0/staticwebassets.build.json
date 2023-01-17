@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9wcvE+XNgDk+fQ3coEN6bzFx4+9uqdxtbgsgo4wZ5vA=",
+  "Hash": "azENxl3sZA6buIuuFVyTs6zyHhEn5C2y+t2aQacFevc=",
   "Source": "SistemaVenta.AplicacionWeb",
   "BasePath": "_content/SistemaVenta.AplicacionWeb",
   "Mode": "Default",
@@ -289,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\js\\vistas\\chart-pie-demo.js"
     },
     {
+      "Identity": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\DashBoard_Index.js",
+      "SourceId": "SistemaVenta.AplicacionWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaVenta.AplicacionWeb",
+      "RelativePath": "js/vistas/DashBoard_Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\DashBoard_Index.js"
+    },
+    {
       "Identity": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\datatables-demo.js",
       "SourceId": "SistemaVenta.AplicacionWeb",
       "SourceType": "Discovered",
@@ -321,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vistas\\Historial_Venta.js"
+    },
+    {
+      "Identity": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Home_Perfil.js",
+      "SourceId": "SistemaVenta.AplicacionWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaVenta.AplicacionWeb",
+      "RelativePath": "js/vistas/Home_Perfil.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Home_Perfil.js"
     },
     {
       "Identity": "G:\\tutoriales\\programacion\\Proyectos Practicas\\AplicacionVentas\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",

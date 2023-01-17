@@ -11,7 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using SistemaVenta.DAL.Implementacion;
 using SistemaVenta.DAL.Interfaces;
 using SistemaVenta.BLL.Implementacion;
-using SistemaVenta.BLL.Implementacion;
 using SistemaVenta.BLL.Interfaces;
 
 namespace SistemaVenta.IOC
@@ -49,6 +48,10 @@ namespace SistemaVenta.IOC
             services.AddScoped<ITipoDocumentoVentaService, TipoDocumentoVentaService>();
 
             services.AddScoped<IVentaService, VentaService>();
+
+            services.AddScoped<IDashBoardService, DashBoardService>();
+
+            services.AddScoped<IMenuService, MenuService>();
 
 
         }
